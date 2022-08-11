@@ -6,7 +6,7 @@
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/FKInflation/.github/main/profile/wanted-moontravel.gif?raw=true" width="100%" height="100%"/>
-	<i><h1 align="center"> <code>Because we believe everyone deserves to get ahead</code> </h1></i>
+	<i><h2 align="center"> <code>Because we believe everyone deserves to get ahead</code> </h2></i>
 </p>
 
 <hr />
