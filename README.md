@@ -1,2 +1,2 @@
-# .github
-FK Inflation Github Intro/README
+# FK Inflation
+FK Inflation Github intro/README/overview repo
