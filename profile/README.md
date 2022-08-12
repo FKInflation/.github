@@ -1,7 +1,5 @@
 ## World First 📈 Token Mechanism 
 
-🧬
-
 - - - -
 
 <p align="center">
